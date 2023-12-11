@@ -1,0 +1,61 @@
+
+
+aba abcba abba	Z1Z  aa +aa -aa-  aa+ ZZ+ZZ a (  smth ) 
+(
+    +2
+)
+( ( ( smth ) )
+
+((((b))d)) ((a))
+
+((((b)) d)) ((a))
+
+((abc)abc)
+
+((abc) abc)
+
+block
+yay () yay
+block
+
+block
+yay (  ) yay
+block
+
+block
+yay	(	)	yay
+block
+
+1 * smth
+
+block
+0 * 0
+block
+
+block - 1
++0 + 1
+block
+
+block
++smth  - 1
+block
+
+block
++0 * 1
+block
+
+block
+-1 * (-1)
+block
+
+block
+1 + +1
+block
+
+block
+1 + -1
+block
+
+block
+0 / 0
+block

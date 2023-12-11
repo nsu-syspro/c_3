@@ -1,0 +1,4 @@
+/main_gcc
+/main_clang_*
+/tests/*.passed
+/tests/*-actual-*.txt

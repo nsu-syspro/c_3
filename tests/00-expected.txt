@@ -1,0 +1,58 @@
+PALINDROM PALINDROM PALINDROM	Z1Z PALINDROM +PALINDROM -PALINDROM- PALINDROM+ PALINDROM+PALINDROM PALINDROM smth 
+(
++2
+)
+( smth 
+
+PALINDROMPALINDROM PALINDROM
+
+((PALINDROM PALINDROM)) PALINDROM
+
+abcabc
+
+(abc abc)
+
+block
+PALINDROM () PALINDROM
+block
+
+block
+PALINDROM ( ) PALINDROM
+block
+
+block
+PALINDROM	(	)	PALINDROM
+block
+
+1 * smth
+
+block
+0
+block
+
+block - 2
+block
+
+block
++smth - 1
+block
+
+block
++0
+block
+
+block
+-1 * (-1)
+block
+
+block
+1 + +1
+block
+
+block
+1 + -1
+block
+
+block
+ERROR
+block

@@ -1,0 +1,12 @@
+BasedOnStyle:  LLVM
+IndentWidth:     4
+AllowShortFunctionsOnASingleLine: None
+EmptyLineBeforeAccessModifier: LogicalBlock
+SeparateDefinitionBlocks: Always
+AllowAllParametersOfDeclarationOnNextLine: false
+ColumnLimit:     100
+DerivePointerAlignment: true
+FixNamespaceComments: false
+IndentCaseLabels: true
+ReflowComments:  false
+SpaceAfterCStyleCast: true
